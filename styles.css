@@ -110,5 +110,6 @@ footer {
   #myButton {
     width: 100%;
     font-size: 1rem;
+    padding: 10px
   }
 }
